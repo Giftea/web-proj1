@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "thumb": "./images/team/1.png",
+        "name": "Cristopher Williams",
+        "designation": "Head of Idea"
+    },
+    {
+        "id": 2,
+        "thumb": "./images/team/2.png",
+        "name": "Julia Rodrigaze",
+        "designation": "Head of Design"
+    },
+    {
+        "id": 3,
+        "thumb": "./images/team/3.png",
+        "name": "Rebeca Smith",
+        "designation": "Head of HR"
+    },
+    {
+        "id": 4,
+        "thumb": "./images/team/4.png",
+        "name": "Ricardo Powel",
+        "designation": "Head of Development"
+    },
+    {
+        "id": 5,
+        "thumb": "./images/team/6.png",
+        "name": "Martin Crow",
+        "designation": "Head of Account"
+    },
+    {
+        "id": 6,
+        "thumb": "./images/team/7.png",
+        "name": "Shane Watson",
+        "designation": "Head of Business"
+    },
+    {
+        "id": 7,
+        "thumb": "./images/team/8.png",
+        "name": "Ethan Williams",
+        "designation": "Head of Strategy"
+    },
+    {
+        "id": 8,
+        "thumb": "./images/team/9.png",
+        "name": "Neha Kakker",
+        "designation": "Head of Marketing"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "classOption": "address-list mb-4 mb-xl-10 pb-2",
+        "title": "Office Addres",
+        "info": "245 Southern Street, Apartment no. 174 Central Twon, New Yourk, USA"
+    },
+    {
+        "id": 2,
+        "classOption": "address-list mb-4 mb-xl-10 pb-2",
+        "title": "Phone Number",
+        "info": "+12345 678 987 <br /> +98745 612 321"
+    },
+    {
+        "id": 3,
+        "classOption": "address-list",
+        "title": "Web Address",
+        "info": "info@example.com <br /> www.example.com"
+    }
+]
